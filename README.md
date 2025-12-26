@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Verma</h1>
-<h3 align="center">A Student trying to figure out stuff.</h3>
+<h3 align="center">A Devloper trying to figure out stuff.</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm, OOPs.**
 
